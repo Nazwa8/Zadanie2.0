@@ -7,7 +7,6 @@ import android.widget.EditText;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
-import kotlin.collections.IntIterator;
 
 //testowanie commit 2.0.0.0.0.0
 
